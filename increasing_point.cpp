@@ -10,7 +10,7 @@ void solve(){
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
-    for(int i=0;i<=x;i++){  
+    for(int i=0;i<x;i++){  
         int temp=arr[i];
         arr[i]=arr[i+y];
         arr[i+y]=temp;
