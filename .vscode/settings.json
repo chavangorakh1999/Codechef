@@ -1,10 +1,18 @@
 {
     "files.associations": {
+        "*.ejs": "html",
         "*.html": "html",
         "vector": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
         "ios": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
     }
 }
